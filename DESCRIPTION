@@ -12,3 +12,5 @@ LazyData: true
 Imports:
         tidyverse,
         data.table
+URL: https://github.com/tkratka/tkBase
+BugReports: https://github.com/tkratka/tkBase/issues
